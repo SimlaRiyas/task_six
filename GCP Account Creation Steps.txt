@@ -1,0 +1,6 @@
+1. Go to the Google Cloud Platform website at https://cloud.google.com/.
+2. Click on the "Get started for free" button.
+3. Choose your email account and country, and then click on "Agree and continue"
+4. Select "Individual" as the account type.
+5. Provide your payment information.
+6. Click on "Start free" to activate your free account.
